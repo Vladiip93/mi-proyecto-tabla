@@ -1,5 +1,9 @@
 # My Table Component
 
+Vladimir Escobar
+
+NRC: 17713
+
 Este proyecto contiene un componente web reutilizable llamado `my-table`, desarrollado con Stencil.js. El componente toma una URL de API REST como entrada y renderiza los datos en una tabla, incluyendo la capacidad de mostrar imágenes de productos.
 
 ## Características
