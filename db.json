@@ -1,0 +1,8 @@
+{
+    "productos": [
+      { "id": 1, "nombre": "Laptop", "precio": 999.99, "imagen": "https://i.postimg.cc/3RYb3CHT/asus-tuf-gaming-f15-fx506lh-hn004t-be-1.jpg", "stock": 50 },
+      { "id": 2, "nombre": "Smartphone", "precio": 499.99, "imagen": "https://i.postimg.cc/fLCqytw0/iphone.jpg", "stock": 100 },
+      { "id": 3, "nombre": "Auriculares", "precio": 79.99, "imagen": "https://i.postimg.cc/j2k86pnx/PULSE-Explore-earbuds-thumbnail-01-en-12sep23.webp", "stock": 200 },
+      { "id": 4, "nombre": "Tablet", "precio": 299.99, "imagen": "https://i.postimg.cc/jdmgDrrv/ipad.jpg", "stock": 75 }
+    ]
+  }
